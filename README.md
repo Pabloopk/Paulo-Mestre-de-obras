@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-Paulo tem mais de 20 anos de experiência na construção civil, desenvolvi um site com o objetivo de transmitir profissionalismo aos usuários e atrair novos clientes para o negócio.
+Paulo tem mais de 20 anos de experiência na construção civil, desenvolvi um site com o objetivo de transmitir seriedade aos usuários e atrair novos clientes para o negócio.
 
 <p>Para mostrar seus trabalhos de forma impactante, atualizei seu site e transformei em um site portfolio utilizando React JS contendo uma galeria de seus  serviços.
 </p>

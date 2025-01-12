@@ -62,7 +62,7 @@ export const navData = {
   items: [
     { href: '#Hero', name: 'Inicio' },
     { href: '#sobre', name: 'Sobre' },
-    { href: '#Gallery', name: 'Serviços' },
+    { href: '#Gallery', name: 'Trabalhos' },
     { href: '#Contato', name: 'Contato' },
   ],
 };
@@ -83,17 +83,17 @@ export const heroData = {
 };
 
 export const aboutData = {
-  title: 'Sobre Mim',
+  title: 'Minha História',
   subtitle1:
     'Tenho mais de 20 anos de experiência com acabamentos, o que me permitiu desenvolver um olhar atento aos detalhes e a habilidade de transformar espaços, tornando-os esteticamente agradáveis e funcionais. Desde a pintura e o revestimento de paredes até a instalação de pisos e azulejos, dedico-me a cada etapa do processo com cuidado e precisão.',
   subtitle2:
     'Gosto de aplicar gesso e molduras, além de montar móveis planejados que se encaixam perfeitamente nas necessidades e desejos dos meus clientes. A instalação de luminárias e itens de decoração também faz parte do meu trabalho, garantindo...',
-  btnText: 'Saber Mais',
+  btnText: 'Mais Sobre',
   btnIcon: <IoMdArrowForward />,
 };
 
 export const galleryData = {
-  title: 'Serviços',
+  title: 'Trabalhos',
   btnText: 'Orçamentos',
   btnIcon: <IoMdArrowForward />,
   images: [
@@ -320,7 +320,7 @@ export const testimonialData = [
     quoteImg: QuoteImg,
     message:
       '"Contratei para o acabamento do meu escritório e fiquei impressionado com o resultado".',
-    name: 'Pablo Sousa',
+    name: 'Paula Sousa',
     occupation: 'Cliente',
   },
   {

@@ -86,7 +86,7 @@ const Sobre = () => {
               initial="hidden"
               whileInView={'show'} className='flex-1 h-full xl:mt-48'>
                 <h2 className='h2'>
-                  Serviços
+                  Acabamentos
                 </h2>
                 <div className='flex flex-col items-end'>
                   <div className='max-w-[530px]'>

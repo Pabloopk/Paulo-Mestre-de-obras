@@ -23,8 +23,8 @@ const App = () => {
       <Skills />
       <Testimonial />
       <Contact />
-      <Footer />
       <Map/>
+      <Footer />
       <Copyright />
       {/* <div className='h-[4000px]'></div> */}
     </div>

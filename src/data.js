@@ -83,7 +83,7 @@ export const heroData = {
 };
 
 export const aboutData = {
-  title: 'Minha História',
+  title: 'Minha Trajetória Profissional',
   subtitle1:
     'Tenho mais de 20 anos de experiência com acabamentos, o que me permitiu desenvolver um olhar atento aos detalhes e a habilidade de transformar espaços, tornando-os esteticamente agradáveis e funcionais. Desde a pintura e o revestimento de paredes até a instalação de pisos e azulejos, dedico-me a cada etapa do processo com cuidado e precisão.',
   subtitle2:

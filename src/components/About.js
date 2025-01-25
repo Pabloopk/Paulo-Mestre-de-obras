@@ -25,15 +25,7 @@ const About = () => {
           <div className='flex flex-col lg:flex-row gap-x-[70px]
           items-center
           '>
-              <motion.div variants={fadeIn('right')}
-              initial="hidden"
-              whileInView={'show'} 
-             className='flex flex-col lg:flex-row flex-1'>
               
-                <img className='w-[250px] h-[300px] xl:mt-[180px] mt-[20px] mb-[20px] xl:w-[550px] xl:h-[600px] rounded-md ' src={sobre}  alt=''/>
-        
-            
-            </motion.div>
             {/*text*/}
               <motion.div variants={fadeIn('left')}
               initial="hidden"
@@ -54,6 +46,15 @@ const About = () => {
                   </div>
                 </div>
               </motion.div>
+              <motion.div variants={fadeIn('right')}
+              initial="hidden"
+              whileInView={'show'} 
+             className='flex flex-col lg:flex-row flex-1'>
+              
+                <img className='w-[250px] h-[300px] xl:mt-[180px] mt-[20px] mb-[20px] xl:w-[550px] xl:h-[600px] rounded-md ' src={sobre}  alt=''/>
+        
+            
+            </motion.div>
           </div>
         </div>
     </section>

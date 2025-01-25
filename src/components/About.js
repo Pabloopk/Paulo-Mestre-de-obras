@@ -39,9 +39,7 @@ const About = () => {
                     <p className='mb-9'>{subtitle2}</p>
 
 
-                    <button onClick={buttonSobre} className='btn btn-lg btn-link'>
-                      {btnText} <div className='text-xl'>{btnIcon}</div>{' '}
-                    </button>
+                    
                   
                   </div>
                 </div>
@@ -51,11 +49,16 @@ const About = () => {
               whileInView={'show'} 
              className='flex flex-col lg:flex-row flex-1'>
               
-                <img className='w-[250px] h-[300px] xl:mt-[180px] mt-[20px] mb-[20px] xl:w-[550px] xl:h-[600px] rounded-md ' src={sobre}  alt=''/>
+                <img className='w-[250px] h-[300px]  xl:mt-[180px] mt-[20px] mb-[20px] xl:w-[550px] xl:h-[600px] rounded-md ' src={sobre}  alt=''/>
         
             
             </motion.div>
+
+            
           </div>
+          <button onClick={buttonSobre} className='btn btn-lg btn-link'>
+                {btnText} <div className='text-xl'>{btnIcon}</div>{' '}
+            </button>
         </div>
     </section>
     );

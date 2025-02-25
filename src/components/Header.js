@@ -121,7 +121,7 @@ const Header = () => {
         {/* Ícone de menu sanduíche ou X dependendo do estado do menu */}
         <div
           onClick={() => setNavMobile(!navMobile)}
-          className="xl:hidden absolute right-[5%] bg-black text-white p-2 rounded-md cursor-pointer"
+          className="xl:hidden absolute right-[5%] text-white p-2 rounded-md cursor-pointer"
         >
           {navMobile ? (
             <IoMdClose className="text-3xl" />

@@ -60,7 +60,7 @@ export const piaData = {
 
 export const navData = {
   items: [
-    { href: '#Hero', name: 'Inicio' },
+    { href: '#Hero', name: 'Início' },
     { href: '#sobre', name: 'Sobre' },
     { href: '#Gallery', name: 'Trabalhos' },
     { href: '#Contato', name: 'Contato' },
@@ -390,7 +390,7 @@ export const footerData = {
   program: {
     title: 'Dias de Funcionamento',
     items: [
-      { name: 'Segunda - Sexta / 8:00 h - 17:00 h' },
+      { name: 'Segunda a Sexta das 8:00h às 17:00h' },
       { name: 'Sábado / Atendimento Online' },
       { name: 'Domingo e Feriados / Fechado' },
     ],

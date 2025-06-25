@@ -372,7 +372,7 @@ export const footerData = {
     },
     phone: {
       icon: <FaPhoneAlt />,
-      number: '(61)9 9272-1969',
+      number: '(61) 9 9272-1969',
     },
     email: {
       icon: <FaEnvelope />,

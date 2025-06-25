@@ -390,9 +390,9 @@ export const footerData = {
   program: {
     title: 'Dias de Funcionamento',
     items: [
-      { name: 'Segunda a Sexta das 8:00h às 17:00h' },
-      { name: 'Sábado / Atendimento Online' },
-      { name: 'Domingo e Feriados / Fechado' },
+      { name: 'Segunda a Sexta: das 8:00h às 17:00h' },
+      { name: 'Sábado: Atendimento Online' },
+      { name: 'Domingo e Feriados: Fechado' },
     ],
   },
   newsletter: {
